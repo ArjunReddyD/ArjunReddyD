@@ -8,7 +8,7 @@ Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Automation Test En
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Appium](https://img.shields.io/badge/appium-%23ED8B00.svg?style=for-the-badge&logo=appium&logoColor=white) 
-![RestAssured](https://img.shields.io/badge/rest%20assured-%23ED8B00.svg?style=for-the-badge&logo=Rest%20Assured&logoColor=white)  
+![RestAssured](https://img.shields.io/badge/rest%20assured-%23ED8B00.svg?style=for-the-badge&logo=Rest%20Assured&logoColor=white) 
 ![Selenium](https://img.shields.io/badge/Selenium-%23FF9900.svg?style=for-the-badge&logo=Selenium&logoColor=white) 
 ![TestNG](https://img.shields.io/badge/TestNG-%23FF9900.svg?style=for-the-badge&logo=TestNG&logoColor=white) 
 ![Maven](https://img.shields.io/badge/Maven-%23FF9900.svg?style=for-the-badge&logo=Maven&logoColor=white) 
