@@ -45,9 +45,6 @@ Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Automation Test En
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArjunReddyD&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ArjunReddyD&icon=0&color=0)](https://visitcount.itsvg.in)
 
