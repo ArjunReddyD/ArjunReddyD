@@ -5,7 +5,7 @@ Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Automation Test En
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mallikarjunareddyduvoori) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@malli.62345) 
 
-# 💻 Tech Stack:
+# 💻 Languages and Tools:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Appium](https://img.shields.io/badge/appium-%23ED8B00.svg?style=for-the-badge&logo=appium&logoColor=white) 
 ![RestAssured](https://img.shields.io/badge/rest%20assured-%23ED8B00.svg?style=for-the-badge&logo=Rest%20Assured&logoColor=white) 
@@ -36,6 +36,7 @@ Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Automation Test En
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArjunReddyD&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
