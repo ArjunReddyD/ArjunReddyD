@@ -1,4 +1,4 @@
-Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Automation Test Engineer who loves to create Industry standard frameworks for Web, Mobile, and API automation.<br><br>🔭 I’m currently working as a Senior QA engineer where I test Rest API's and write automation scripts within the Sprint.<br>👯 I’m currently working on new skills that are in pipeline:  Java Script, k6, Cypress, Playwright, WebdriverIO<br>💬 Ask me about Appium, Rest Assured and Selenium<br>📫 How to reach me: malli.62345@gmail.com
+Hi there 👋, I'am Mallikarjuna Reddy Duvoori<br><br>I am an Senior QA Engineer who loves to create Industry standard frameworks for Web, Mobile, and API automation.<br><br>🔭 I’m currently working as a Senior QA engineer where I test Rest API's and write automation scripts within the Sprint.<br>👯 I’m currently working on new skills that are in pipeline:  Java Script, k6, Cypress, Playwright, WebdriverIO<br>💬 Ask me about Appium, Rest Assured and Selenium<br>📫 How to reach me: malli.62345@gmail.com
 
 
 ## 🌐 Socials:
